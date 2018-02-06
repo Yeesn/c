@@ -1,0 +1,13 @@
+﻿  test.c
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(5): error C2365: “y1”: 重定义；以前的定义是“函数”
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(972): note: 参见“y1”的声明
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(9): error C2373: “y”: 重定义；不同的类型修饰符
+  f:\myprogram\clanguage\gedianfa\gedianfa\test.c(8): note: 参见“y”的声明
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(10): warning C4305: “函数”: 从“double”到“float”截断
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(39): warning C4013: “system”未定义；假设外部返回 int
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(45): error C2440: “=”: 无法从“float”转换为“double (__cdecl *)(double)”
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(47): error C2440: “>”: 无法从“double (__cdecl *)(double)”转换为“float”
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(50): error C2440: “=”: 无法从“double (__cdecl *)(double)”转换为“float”
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(54): error C2440: “=”: 无法从“float”转换为“double (__cdecl *)(double)”
+f:\myprogram\clanguage\gedianfa\gedianfa\test.c(47): error C4996: 'y1': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _y1. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(972): note: 参见“y1”的声明
