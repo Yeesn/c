@@ -1,0 +1,6 @@
+﻿  test.c
+f:\myprogram\clanguage\最速下降法\最速下降法\test.c(30): warning C4013: “system”未定义；假设外部返回 int
+f:\myprogram\clanguage\最速下降法\最速下降法\test.c(69): warning C4305: “函数”: 从“double”到“float”截断
+f:\myprogram\clanguage\最速下降法\最速下降法\test.c(68): warning C4305: “初始化”: 从“double”到“float”截断
+  最速下降法.vcxproj -> F:\MyProgram\CLanguage\最速下降法\x64\Debug\最速下降法.exe
+  最速下降法.vcxproj -> F:\MyProgram\CLanguage\最速下降法\x64\Debug\最速下降法.pdb (Full PDB)
